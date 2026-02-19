@@ -1,0 +1,2 @@
+select SKU_Description,sku
+from inventory;
